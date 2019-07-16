@@ -1,1 +1,3 @@
-# Convert-Azure-AD-B2B
+# To convert a user from UserType Guest to Member
+Install-Module AzureAD
+
