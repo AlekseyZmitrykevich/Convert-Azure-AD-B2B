@@ -3,5 +3,5 @@ Member. A user expects to have access to internal-only sites. This user is not c
 Guest. indicates a user who isn’t considered internal to the company. This type of user will have restricted access and lookup rights in the directory
 
 
-
+				_______
 
